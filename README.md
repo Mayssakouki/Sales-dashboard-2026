@@ -14,7 +14,7 @@ This dashboard provides a comprehensive and interactive view of sales activities
 - Data cleaning and quality improvement using **Power Query**
 - Used **DAX COALESCE** function to replace empty values with 0
 - Optimized data types across columns
-- Merged 2 columns " first_name" et "last_name" to get a one column named customer_name
+- Merged 2 columns " first_name" and "last_name" to get a one column named customer_name
 - Established proper relationships in the data model
 
 ## ✨ Key Features
